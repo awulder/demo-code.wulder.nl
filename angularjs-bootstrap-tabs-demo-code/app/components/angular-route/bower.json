@@ -1,0 +1,16 @@
+{
+  "name": "angular-route",
+  "version": "1.2.0rc1",
+  "main": "./angular-route.js",
+  "dependencies": {
+    "angular": "1.2.0rc1"
+  },
+  "gitHead": "9d2458ecdb5629a947bcbecd71f678967f4caa09",
+  "_id": "angular-route@1.2.0rc1",
+  "readme": "ERROR: No README.md file found!",
+  "description": "ERROR: No README.md file found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/angular/bower-angular-route.git"
+  }
+}
